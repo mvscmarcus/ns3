@@ -156,7 +156,7 @@
     ],
 
     "visualization": {
-        "enable": true,
+        "enable": false,
         "outputFile": "../results/simple_wifi_3d.xml"
     }
 }
