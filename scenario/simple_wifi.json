@@ -330,8 +330,5 @@
         "LiIonEnergySource",
         "EnergySource",
         "DroneEnergyModel"
-   ],
-    "visualization": {
-        "enable": true,
-        "outputFile": "../results/simple_wifi_3d.xml"
+    ]
 }
